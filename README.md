@@ -2,8 +2,6 @@
 
 The report contains data collected from 15 city schools. These schools teach a collective 39,170 students, have a total budget of $24,649,428.00 across the schools.
 
-The overall passing rate of all 15 schools is %65. Generally, the average math passing rates are lower than the average reading passing rate across all schools.
-
 This repository contains the following:
 1. The resources folder found under PyCitySchools contains two CSV's with both school data and individual student data respecitvely
 2. The PyCitySchoolsAnalysis.ipynb file contains a Jupyter Notebook which merges the data files, and produces several data tables containing analysis of the school and student data. 
